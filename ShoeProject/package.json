@@ -1,0 +1,14 @@
+{
+    "name": "shoeproject",
+    "version": "1.0.0",
+    "description": "Just For Fun",
+    "main": "script.js",
+    "scripts": {
+      "start": "lite-server"
+    },
+    "author": "Erica Lee",
+    "license": "ISC",
+    "devDependencies": {
+      "lite-server": "^2.5.4"
+    }
+  }
